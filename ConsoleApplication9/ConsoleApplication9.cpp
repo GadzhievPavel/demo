@@ -26,7 +26,7 @@ int main()
     qwer q1 = read(f);
     std::cout << q1.i;
 
-
+    std::cout << "";
 
 }
 
